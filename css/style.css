@@ -1,0 +1,40 @@
+body {
+    background-color: #f8f9fa;
+    padding-top: 20px;
+}
+
+.form-container {
+    background-color: white;
+    padding: 30px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+h1 {
+    color: #ffbb00;
+    margin-bottom: 30px;
+}
+
+.form-label {
+    font-weight: bold;
+}
+
+.btn-primary {
+    background-color: #ffbb00;
+    border-color: #ffbb00;
+}
+
+.btn-primary:hover {
+    background-color: #c49002;
+    border-color: #c49002
+}
+
+.btn-secondary {
+    background-color: #919191;
+    border-color: #919191;
+}
+
+.btn-secondary:hover {
+    background-color: #808080;
+    border-color: #808080
+}
